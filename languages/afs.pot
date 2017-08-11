@@ -1,0 +1,193 @@
+# Copyright (C) 2017 AFS Analytics
+# This file is distributed under the same license as the AFS Analytics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AFS Analytics 3.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/addfreestats\n"
+"POT-Creation-Date: 2017-06-14 17:53:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: addfreestats.php:26
+msgid "AFS Analytics Plugin"
+msgstr ""
+
+#: addfreestats.php:26
+msgid "AFS Analytics Settings"
+msgstr ""
+
+#: addfreestats.php:29
+msgid "Right now"
+msgstr ""
+
+#: addfreestats.php:30
+msgid "Plugin settings"
+msgstr ""
+
+#: addfreestats.php:31
+msgid "Manage Access keys"
+msgstr ""
+
+#: addfreestats.php:32
+msgid "Your account"
+msgstr ""
+
+#: addfreestats.php:33
+msgid "Manage Website(s)"
+msgstr ""
+
+#: addfreestats.php:34
+msgid "Forgotten password"
+msgstr ""
+
+#: addfreestats.php:35
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: addfreestats.php:36
+msgid "Online Help"
+msgstr ""
+
+#: addfreestats.php:37
+msgid "Contact Us"
+msgstr ""
+
+#: addfreestats.php:185
+msgid "You have to define the plugin settings!"
+msgstr ""
+
+#: addfreestats.php:205
+msgid "Please be patient, AFS Analytics dashboard is loading ..."
+msgstr ""
+
+#: addfreestats.php:245
+msgid "Please be patient, Right now dashboard is loading ..."
+msgstr ""
+
+#: addfreestats.php:280
+msgid "Please be patient, AFS Analytics is loading ..."
+msgstr ""
+
+#: addfreestats.php:331
+msgid "AFS Analytics tracker name"
+msgstr ""
+
+#: addfreestats.php:335
+msgid "tracker name (optional)"
+msgstr ""
+
+#: addfreestats.php:364
+msgid "Data Saved!"
+msgstr ""
+
+#: addfreestats.php:365
+msgid "Error: AFS website ID number must be a 8 digits! "
+msgstr ""
+
+#: addfreestats.php:491
+msgid "How to install AFS Analytics?"
+msgstr ""
+
+#: addfreestats.php:497
+msgid "1 - New Website?"
+msgstr ""
+
+#: addfreestats.php:499
+msgid "Click here"
+msgstr ""
+
+#: addfreestats.php:501
+msgid "to get a Website ID"
+msgstr ""
+
+#: addfreestats.php:503
+msgid "2 - Type your Website ID into the Website ID field"
+msgstr ""
+
+#: addfreestats.php:505
+msgid "3 - Click on 'Update' button"
+msgstr ""
+
+#: addfreestats.php:507
+msgid "4 - AFS Analytics code will be inserted into the header"
+msgstr ""
+
+#: addfreestats.php:522
+msgid "Website ID:"
+msgstr ""
+
+#: addfreestats.php:529
+msgid ""
+"<a href=\"https://www.afsanalytics.com/info/122/autotrack-automated-event-"
+"tracking.html\" target=\"_blank\">AutoTrack (general settings)</a>"
+msgstr ""
+
+#: addfreestats.php:610
+msgid ""
+"<a href=\"https://www.afsanalytics.com/info/103/access-keys.html\" target="
+"\"_blank\">Access Key(optional):</a>"
+msgstr ""
+
+#: addfreestats.php:619
+msgid "Update"
+msgstr ""
+
+#: addfreestats.php:629
+msgid "By default the tracker is invisible. You can select a"
+msgstr ""
+
+#: addfreestats.php:631
+msgid "visible tracker"
+msgstr ""
+
+#: addfreestats.php:633
+msgid ""
+"If you selected a visible tracker, you can specify exactly its location. You "
+"do this by adding this line:"
+msgstr ""
+
+#: addfreestats.php:635
+msgid "where you want it to show up."
+msgstr ""
+
+#: addfreestats.php:642
+msgid ""
+"<a title=\"Contact-us\" href=\"https://www.afsanalytics.com/contact.html\" "
+"target=\"_blank\">Contact-us</a>"
+msgstr ""
+
+#: addfreestats.php:644
+msgid ""
+"<a title=\"AFS Analytics\" href=\"https://www.afsanalytics.com\" target="
+"\"_blank\">AFS Analytics</a>"
+msgstr ""
+
+#: addfreestats.php:646
+msgid ""
+"<a title=\"DataSense\" href=\"https://www.datasense-analytics.com\" target="
+"\"_blank\">DataSense</a>"
+msgstr ""
+
+#. #-#-#-#-#  afs.pot (AFS Analytics 3.13)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  afs.pot (AFS Analytics 3.13)  #-#-#-#-#
+#. Author of the plugin/theme
+msgid "AFS Analytics"
+msgstr ""
+
+#. #-#-#-#-#  afs.pot (AFS Analytics 3.13)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  afs.pot (AFS Analytics 3.13)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.afsanalytics.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"AFS Analytics offers one of the best real-time website analytics tool using "
+"the latest technologies. Easy to use! Easy to install"
+msgstr ""

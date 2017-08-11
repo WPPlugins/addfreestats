@@ -1,0 +1,212 @@
+# Copyright (C) 2017 AFS Analytics
+# This file is distributed under the same license as the AFS Analytics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AFS Analytics 3.13\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/addfreestats\n"
+"POT-Creation-Date: 2017-06-14 21:33+0200\n"
+"PO-Revision-Date: 2017-06-14 21:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: addfreestats.php:26
+msgid "AFS Analytics Plugin"
+msgstr "AFS Analytics Extension"
+
+#: addfreestats.php:26
+msgid "AFS Analytics Settings"
+msgstr "AFS Analytics Réglages"
+
+#: addfreestats.php:29
+msgid "Right now"
+msgstr "En Direct"
+
+#: addfreestats.php:30
+msgid "Plugin settings"
+msgstr "Paramètres du plugin"
+
+#: addfreestats.php:31
+msgid "Manage Access keys"
+msgstr "Gestion des clés d'accès"
+
+#: addfreestats.php:32
+msgid "Your account"
+msgstr "Votre compte"
+
+#: addfreestats.php:33
+msgid "Manage Website(s)"
+msgstr "Gérer vos sites"
+
+#: addfreestats.php:34
+msgid "Forgotten password"
+msgstr "Mot de passe oublié"
+
+#: addfreestats.php:35
+msgid "Upgrade to Premium"
+msgstr "Version Premium"
+
+#: addfreestats.php:36
+msgid "Online Help"
+msgstr "Aide en Ligne"
+
+#: addfreestats.php:37
+msgid "Contact Us"
+msgstr "Contactez nous"
+
+#: addfreestats.php:185
+msgid "You have to define the plugin settings!"
+msgstr "Vous devez définir les paramètres de l'extension"
+
+#: addfreestats.php:205
+msgid "Please be patient, AFS Analytics dashboard is loading ..."
+msgstr ""
+"S'il vous plaît soyez patient, le tableau de bord d'AFS Analytics  se "
+"charge ...."
+
+#: addfreestats.php:245
+msgid "Please be patient, Right now dashboard is loading ..."
+msgstr ""
+"S'il vous plaît soyez patient, le tableau de bord \"En Direct\" se "
+"charge ...."
+
+#: addfreestats.php:280
+msgid "Please be patient, AFS Analytics is loading ..."
+msgstr "S'il vous plaît soyez patient, AFS Analytics  se charge ...."
+
+#: addfreestats.php:331
+msgid "AFS Analytics tracker name"
+msgstr "Nom du Traqueur pour AFS Analytics"
+
+#: addfreestats.php:335
+msgid "tracker name (optional)"
+msgstr "Nom du Traqueur (facultatif)"
+
+#: addfreestats.php:364
+msgid "Data Saved!"
+msgstr "Données sauvegardées!"
+
+#: addfreestats.php:365
+msgid "Error: AFS website ID number must be a 8 digits! "
+msgstr "Erreur: L'ID du site internet doit être un nombre de 8 chiffres!"
+
+#: addfreestats.php:491
+msgid "How to install AFS Analytics?"
+msgstr "Comment installer AFS Analytics ?"
+
+#: addfreestats.php:497
+msgid "1 - New Website?"
+msgstr "1 - Nouveau site Web ?"
+
+#: addfreestats.php:499
+msgid "Click here"
+msgstr "Cliquer ici"
+
+#: addfreestats.php:501
+msgid "to get a Website ID"
+msgstr "pour obtenir une ID de site Web"
+
+#: addfreestats.php:503
+msgid "2 - Type your Website ID into the Website ID field"
+msgstr "2 - Entrez l'ID du site internet dans le champ"
+
+#: addfreestats.php:505
+msgid "3 - Click on 'Update' button"
+msgstr "3 - Cliquez sur le bouton « Mettre à jour »"
+
+#: addfreestats.php:507
+msgid "4 - AFS Analytics code will be inserted into the header"
+msgstr "4 - Le code AFS Analytics sera inséré dans l’en-tête"
+
+#: addfreestats.php:522
+msgid "Website ID:"
+msgstr "ID du site Web:"
+
+#: addfreestats.php:529
+msgid ""
+"<a href=\"https://www.afsanalytics.com/info/122/autotrack-automated-event-"
+"tracking.html\" target=\"_blank\">AutoTrack (general settings)</a>"
+msgstr ""
+"<a href=\"https://www.afsanalytics.com/fr/info/122/autotrack-capture-des-"
+"evenements-automatises.html\" target=\"_blank\">AutoTrack (Réglages)</a>"
+
+#: addfreestats.php:610
+msgid ""
+"<a href=\"https://www.afsanalytics.com/info/103/access-keys.html\" target="
+"\"_blank\">Access Key(optional):</a>"
+msgstr ""
+"<a href=\"https://www.afsanalytics.com/fr/info/103/access-keys.html\" target="
+"\"_blank\">Clé d'accès (facultatif):</a>"
+
+#: addfreestats.php:619
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: addfreestats.php:629
+msgid "By default the tracker is invisible. You can select a"
+msgstr "Par défaut le bouton est invisible. Vous pouvez sélectionner un"
+
+#: addfreestats.php:631
+msgid "visible tracker"
+msgstr "bouton visible"
+
+#: addfreestats.php:633
+msgid ""
+"If you selected a visible tracker, you can specify exactly its location. You "
+"do this by adding this line:"
+msgstr ""
+"Si vous avez sélectionné un bouton visible, vous pouvez spécifier exactement "
+"son emplacement en ajoutant cette ligne :"
+
+#: addfreestats.php:635
+msgid "where you want it to show up."
+msgstr "à l'endroit où le bouton doit apparaître."
+
+#: addfreestats.php:642
+msgid ""
+"<a title=\"Contact-us\" href=\"https://www.afsanalytics.com/contact.html\" "
+"target=\"_blank\">Contact-us</a>"
+msgstr ""
+"<a title=\"Contact-us\" href=\"https://www.afsanalytics.com/contact.html\" "
+"target=\"_blank\">Contactez-nous</a>"
+
+#: addfreestats.php:644
+msgid ""
+"<a title=\"AFS Analytics\" href=\"https://www.afsanalytics.com\" target="
+"\"_blank\">AFS Analytics</a>"
+msgstr ""
+"<a title=\"AFS Analytics\" href=\"https://www.afsanalytics.com/fr/\" target="
+"\"_blank\">AFS Analytics</a>"
+
+#: addfreestats.php:646
+msgid ""
+"<a title=\"DataSense\" href=\"https://www.datasense-analytics.com\" target="
+"\"_blank\">DataSense</a>"
+msgstr ""
+"<a title=\"DataSense\" href=\"https://www.datasense.fr\" target=\"_blank"
+"\">DataSense</a>"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "AFS Analytics"
+msgstr "AFS Analytics"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.afsanalytics.com/"
+msgstr "http://www.afsanalytics.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"AFS Analytics offers one of the best real-time website analytics tool using "
+"the latest technologies. Easy to use! Easy to install"
+msgstr ""
+"Elément clé du marketing digital, AFS Analytics, offre l'une des meilleures "
+"solutions de web analytics en temps réel .  Regroupant la mesure d’audience, "
+"l’analyse comportementale des utilisateurs et des outils de S.E.O.,  AFS "
+"Analytics utilise les dernières technologies. "
